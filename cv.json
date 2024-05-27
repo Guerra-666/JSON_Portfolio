@@ -2,7 +2,7 @@
     "basics": {
       "name": "Angel Adrian Guerra Avila",
       "label": "Web & Software Developer",
-      "image": "",
+      "image": "/me.webp",
       "email": "AdrianAuditore@Outlook.com",
       "phone": "771-338-4831",
       "url": "https://johndoe.com",
@@ -16,100 +16,214 @@
       "profiles": [{
         "network": "GitHub",
         "username": "Guerra-666",
-        "url": "https://twitter.com/john"
+        "url": "https://github.com/Guerra-666"
       },
       {
         "network": "LinkedIn",
         "username": "john",
-        "url": "https://twitter.com/john"
+        "url": "https://linkedin.com/in/adrianguerra666"
       }]
     },
     "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
+      "name": "Freelance",
+      "position": "Desarrollador Web",
+      "url": "https://freelance.com",
+      "startDate": "2022-08-01",
+      "endDate": "Presente",
+      "summary": "Desarrollé sitios web y scripts de automatización como desarrollador web freelance. Los proyectos incluyen la creación de una página web para una academia de danza y el diseño de invitaciones para bodas, así como el desarrollo de scripts para optimizar procesos cotidianos.",
       "highlights": [
-        "Started the company"
-      ]
-    }],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Creé una página web para una academia de danza utilizando React y Astro",
+        "Diseñé y desarrollé invitaciones para bodas",
+        "Desarrollé scripts en Python para automatizar y optimizar tareas rutinarias",
+        "Implementé bases de datos en MySQL y PostgreSQL"
       ]
     }],
     "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
+      "institution": "Centro Universitario Hidalguense",
+      "url": "https://cuh.edu.mx",
+      "area": "Ingeniería en Sistemas Computacionales",
+      "studyType": "Ingenieria",
+      "startDate": "2023-02-01",
+      "endDate": "2027-01-01"
     }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }],
+      "certificates": [
+        {
+          "name": "JavaScript",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Desarrollo con Node.js",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Python",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Configuración de Entorno de Desarrollo en Windows",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Creación de Páginas Web con ChatGPT",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "ECMAScript: Historia y Versiones de JavaScript",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "HTML y CSS",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Fundamentos de Bases de Datos",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Fundamentos de Python",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Introducción a Java SE",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Introducción a la Terminal y Línea de Comandos",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Introducción al Desarrollo Backend",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Pensamiento Lógico: Algoritmos y Diagramas de Flujo",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Pensamiento Lógico: Lenguajes de Programación",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Pensamiento Lógico: Manejo de Datos, Estructuras y Funciones",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Prework: Configuración de Entorno de Desarrollo en Linux",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Prework: Configuración de Entorno de Desarrollo en macOS",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Productividad y Organización",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Redes Informáticas de Internet",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Fundamentos de Ingeniería de Software",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        },
+        {
+          "name": "Seguridad Informática",
+          "issuer": "Platzi",
+          "url": "https://guerra-666.github.io/CertifyView/"
+        }
+      ],
+      "skills": [
+        {
+          "name": "FrontEnd Development",
+          "level": "Master",
+          "keywords": [
+            "React",
+            "Astro",
+            "Bootstrap",
+            "Tailwind"
+          ]
+        },
+        {
+          "name": "Backend Development",
+          "level": "Master",
+          "keywords": [
+            "Spring Boot",
+            "Spring Security",
+            "Spring Data JPA",
+            "Node.js",
+            "MySQL",
+            "PostgreSQL"
+          ]
+        }
+      ],
     "languages": [{
       "language": "English",
-      "fluency": "Native speaker"
+      "level": "C1"
     }],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
+    "interests": [
+      {
+        "name": "Tecnología y Programación",
+        "keywords": [
+          "Inteligencia Artificial",
+          "Desarrollo de Software",
+          "Innovaciones Tecnológicas"
+        ]
+      },
+      {
+        "name": "Actividades al Aire Libre",
+        "keywords": [
+          "Senderismo",
+          "Ciclismo",
+          "Fotografía"
+        ]
+      },
+      {
+        "name": "Voluntariado y Comunidad",
+        "keywords": [
+          "Trabajo Comunitario",
+          "Organización de Eventos",
+          "Mentoría"
+        ]
+      }
+    ],
     "references": [{
       "name": "Jane Doe",
       "reference": "Reference…"
     }],
-    "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+    "projects": [
+    {
+      "name": "Creación de la Web de la Academia de Danza DiBallu",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01",
+      "description": "Desarrollé y lancé el sitio web para la Academia de Danza DiBallu, mejorando su presencia en línea y facilitando la inscripción de nuevos estudiantes.",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "Implementación de un diseño responsivo utilizando Bootstrap y Tailwind CSS.",
+        "Desarrollo del frontend con React y Astro para una experiencia de usuario dinámica.",
+        "Despliegue del sitio web en GitHub Pages para una accesibilidad y mantenimiento eficientes."
       ],
-      "url": "https://project.com/"
-    }]
+      "url": "https://guerra-666.github.io/Academy/"
+    }
+  ]
   }
   

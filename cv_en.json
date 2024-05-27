@@ -1,0 +1,232 @@
+{
+  "basics": {
+    "name": "Angel Adrian Guerra Avila",
+    "label": "Web & Software Developer",
+    "email": "AdrianAuditore@Outlook.com",
+    "phone": "771-338-4831",
+    "url": "https://johndoe.com",
+    "summary": "Over 2 years of experience in web and software development. Based in Pachuca, Hidalgo. I am a freelance web developer with expertise in designing and developing websites and microservices. I work independently, assisting companies and entrepreneurs in establishing and enhancing their online presence by creating attractive and functional websites. My focus is on customization and efficiency, ensuring that each project meets the specific needs of my clients and exceeds their expectations. With a solid understanding of modern web technologies and a commitment to excellence, I strive to deliver innovative and high-quality solutions in every project.",
+    "location": {
+      "address": "Nogales #110",
+      "postalCode": "42186",
+      "city": "Pachuca",
+      "region": "Hidalgo"
+    },
+    "profiles": [{
+      "network": "GitHub",
+      "username": "Guerra-666",
+      "url": "https://github.com/Guerra-666"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "john",
+      "url": "https://linkedin.com/in/adrianguerra666"
+    }]
+  },
+  "work": [{
+    "name": "Freelance",
+    "position": "Web Developer",
+    "url": "https://freelance.com",
+    "startDate": "2022-08-01",
+    "endDate": "Present",
+    "summary": "Developed websites and automation scripts as a freelance web developer. Projects include creating a website for a dance academy and designing wedding invitations, as well as developing scripts to optimize daily processes.",
+    "highlights": [
+      "Created a website for a dance academy using React and Astro",
+      "Designed and developed wedding invitations",
+      "Developed Python scripts to automate and optimize routine tasks",
+      "Implemented databases in MySQL and PostgreSQL"
+    ]
+  }],
+  "education": [{
+    "institution": "Centro Universitario Hidalguense",
+    "url": "https://cuh.edu.mx",
+    "area": "Computer Systems Engineering",
+    "studyType": "Engineering",
+    "startDate": "2023-02-01",
+    "endDate": "2027-01-01"
+  }],
+    "certificates": [
+      {
+        "name": "JavaScript",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Development with Node.js",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Python",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Setting up Development Environment on Windows",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Web Page Creation with ChatGPT",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "ECMAScript: History and Versions of JavaScript",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "HTML and CSS",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Fundamentals of Databases",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Fundamentals of Python",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Introduction to Java SE",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Introduction to Terminal and Command Line",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Introduction to Backend Development",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Logical Thinking: Algorithms and Flowcharts",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Logical Thinking: Programming Languages",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Logical Thinking: Data Handling, Structures, and Functions",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Prework: Setting up Development Environment on Linux",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Prework: Setting up Development Environment on macOS",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Productivity and Organization",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Internet Computer Networks",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Software Engineering Fundamentals",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      },
+      {
+        "name": "Computer Security",
+        "issuer": "Platzi",
+        "url": "https://guerra-666.github.io/CertifyView/"
+      }
+    ],
+    "skills": [
+      {
+        "name": "FrontEnd Development",
+        "level": "Master",
+        "keywords": [
+          "React",
+          "Astro",
+          "Bootstrap",
+          "Tailwind"
+        ]
+      },
+      {
+        "name": "Backend Development",
+        "level": "Master",
+        "keywords": [
+          "Spring Boot",
+          "Spring Security",
+          "Spring Data JPA",
+          "Node.js",
+          "MySQL",
+          "PostgreSQL"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "level": "C1"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Technology and Programming",
+        "keywords": [
+          "Artificial Intelligence",
+          "Software Development",
+          "Technological Innovations"
+        ]
+      },
+      {
+        "name": "Outdoor Activities",
+        "keywords": [
+          "Hiking",
+          "Cycling",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Volunteering and Community",
+        "keywords": [
+          "Community Service",
+          "Event Organization",
+          "Mentorship"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "name": "Jane Doe",
+        "reference": "Reference…"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Creation of the DiBallu Dance Academy Website",
+        "startDate": "2023-09-01",
+        "endDate": "2023-12-01",
+        "description": "I developed and launched the website for the DiBallu Dance Academy, enhancing its online presence and facilitating the enrollment of new students.",
+        "highlights": [
+          "Implementation of a responsive design using Bootstrap and Tailwind CSS.",
+          "Frontend development with React and Astro for a dynamic user experience.",
+          "Deployment of the website on GitHub Pages for efficient accessibility and maintenance."
+        ],
+        "url": "https://guerra-666.github.io/Academy/"
+      }
+    ]
+  }
+  
