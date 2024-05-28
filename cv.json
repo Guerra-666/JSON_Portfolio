@@ -1,17 +1,17 @@
 {
     "basics": {
       "name": "Angel Adrian Guerra Avila",
-      "label": "Web & Software Developer",
+      "label": "Web & Software Developer con mas de 2 años de experiencia en el desarrollo de aplicaciones web y microservicios",
       "image": "/me.webp",
       "email": "AdrianAuditore@Outlook.com",
       "phone": "771-338-4831",
       "url": "https://johndoe.com",
-      "summary": "+2 años de experiancia en desarrollo web y software. Vivo en Pachuca, Hidalgo. Soy desarrollador web freelance con experiencia en el diseño y desarrollo de páginas web y microservicios. Trabajo de manera independiente, ayudando a empresas y emprendedores a establecer y mejorar su presencia en línea mediante la creación de sitios web atractivos y funcionales. Mi enfoque se centra en la personalización y la eficiencia, asegurando que cada proyecto cumpla con las necesidades específicas de mis clientes y supere sus expectativas. Con una sólida comprensión de las tecnologías web modernas y un compromiso con la excelencia, me esfuerzo por entregar soluciones innovadoras y de alta calidad en cada proyecto.",
+      "summary": "Con más de dos años de experiencia en desarrollo web y software, resido en Pachuca, Hidalgo. Soy desarrollador web freelance, especializado en el diseño de páginas web y microservicios. Ayudo a empresas y emprendedores a mejorar su presencia en línea mediante sitios web atractivos y funcionales. Me enfoco en la personalización y eficiencia, asegurando que cada proyecto cumpla con las necesidades de mis clientes y supere sus expectativas. Con un sólido conocimiento de tecnologías web modernas, me esfuerzo por entregar soluciones innovadoras y de alta calidad en cada proyecto.",
       "location": {
         "address": "Nogales #110",
         "postalCode": "42186",
         "city": "Pachuca",
-        "region": "Hidalgo"
+        "region": "Hidalgo, México"
       },
       "profiles": [{
         "network": "GitHub",
@@ -29,7 +29,7 @@
       "position": "Desarrollador Web",
       "url": "https://freelance.com",
       "startDate": "2022-08-01",
-      "endDate": "Presente",
+      "endDate": null,
       "summary": "Desarrollé sitios web y scripts de automatización como desarrollador web freelance. Los proyectos incluyen la creación de una página web para una academia de danza y el diseño de invitaciones para bodas, así como el desarrollo de scripts para optimizar procesos cotidianos.",
       "highlights": [
         "Creé una página web para una academia de danza utilizando React y Astro",
@@ -155,28 +155,36 @@
       ],
       "skills": [
         {
-          "name": "FrontEnd Development",
-          "level": "Master",
-          "keywords": [
-            "React",
-            "Astro",
-            "Bootstrap",
-            "Tailwind"
-          ]
+            "name": "React"
         },
         {
-          "name": "Backend Development",
-          "level": "Master",
-          "keywords": [
-            "Spring Boot",
-            "Spring Security",
-            "Spring Data JPA",
-            "Node.js",
-            "MySQL",
-            "PostgreSQL"
-          ]
+            "name": "Astro"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "Tailwind"
+        },
+        {
+            "name": "Spring Boot"
+        },
+        {
+            "name": "Spring Security"
+        },
+        {
+            "name": "Spring Data JPA"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "PostgreSQL"
         }
-      ],
+    ],
     "languages": [{
       "language": "English",
       "level": "C1"
