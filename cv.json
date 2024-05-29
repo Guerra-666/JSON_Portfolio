@@ -1,237 +1,279 @@
 {
-    "basics": {
-      "name": "Angel Adrian Guerra Avila",
-      "label": "Web & Software Developer con mas de 2 años de experiencia en el desarrollo de aplicaciones web y microservicios",
-      "image": "/me.webp",
-      "email": "AdrianAuditore@Outlook.com",
-      "phone": "771-338-4831",
-      "url": "https://johndoe.com",
-      "summary": "Con más de dos años de experiencia en desarrollo web y software, resido en Pachuca, Hidalgo. Soy desarrollador web freelance, especializado en el diseño de páginas web y microservicios. Ayudo a empresas y emprendedores a mejorar su presencia en línea mediante sitios web atractivos y funcionales. Me enfoco en la personalización y eficiencia, asegurando que cada proyecto cumpla con las necesidades de mis clientes y supere sus expectativas. Con un sólido conocimiento de tecnologías web modernas, me esfuerzo por entregar soluciones innovadoras y de alta calidad en cada proyecto.",
-      "location": {
-        "address": "Nogales #110",
-        "postalCode": "42186",
-        "city": "Pachuca",
-        "region": "Hidalgo, México"
-      },
-      "profiles": [{
+  "basics": {
+    "name": "Angel Adrian Guerra Avila",
+    "label": "Web & Software Developer con mas de 2 años de experiencia en el desarrollo de aplicaciones web y microservicios",
+    "image": "/me.webp",
+    "email": "AdrianAuditore@Outlook.com",
+    "phone": "771-338-4831",
+    "url": "https://johndoe.com",
+    "summary": "Con más de dos años de experiencia en desarrollo web y software, resido en Pachuca, Hidalgo. Soy desarrollador web freelance, especializado en el diseño de páginas web y microservicios. Ayudo a empresas y emprendedores a mejorar su presencia en línea mediante sitios web atractivos y funcionales. Me enfoco en la personalización y eficiencia, asegurando que cada proyecto cumpla con las necesidades de mis clientes y supere sus expectativas. Con un sólido conocimiento de tecnologías web modernas, me esfuerzo por entregar soluciones innovadoras y de alta calidad en cada proyecto.",
+    "location": {
+      "address": "Nogales #110",
+      "postalCode": "42186",
+      "city": "Pachuca",
+      "region": "Hidalgo, México"
+    },
+    "profiles": [
+      {
         "network": "GitHub",
         "username": "Guerra-666",
         "url": "https://github.com/Guerra-666"
       },
       {
         "network": "LinkedIn",
-        "username": "john",
+        "username": "adrianguerra666",
         "url": "https://linkedin.com/in/adrianguerra666"
-      }]
-    },
-    "work": [{
-      "name": "Freelance",
-      "position": "Desarrollador Web",
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Desarrollador Web",
+      "position": "Freelance",
       "url": "https://freelance.com",
       "startDate": "2022-08-01",
       "endDate": null,
-      "summary": "Desarrollé sitios web y scripts de automatización como desarrollador web freelance. Los proyectos incluyen la creación de una página web para una academia de danza y el diseño de invitaciones para bodas, así como el desarrollo de scripts para optimizar procesos cotidianos.",
+      "summary": "Como desarrollador web freelance, creo y optimizo sitios web y scripts de automatización para diversos clientes. Mis proyectos incluyen la creación de sitios web para academias de danza, diseño de invitaciones digitales, y desarrollo de scripts para optimizar procesos cotidianos.",
       "highlights": [
-        "Creé una página web para una academia de danza utilizando React y Astro",
-        "Diseñé y desarrollé invitaciones para bodas",
-        "Desarrollé scripts en Python para automatizar y optimizar tareas rutinarias",
-        "Implementé bases de datos en MySQL y PostgreSQL"
+        "Desarrollo sitios web utilizando tecnologías modernas como React y Astro",
+        "Diseño y creo invitaciones digitales para eventos, mejorando la experiencia de los usuarios",
+        "Desarrollo scripts en Python para automatizar y optimizar tareas rutinarias",
+        "Implemento y gestiono bases de datos en MySQL y PostgreSQL",
+        "Trabajo estrechamente con clientes para entender sus necesidades y proporcionar soluciones personalizadas",
+        "Optimizó sitios web para un rendimiento rápido y eficiente, asegurando una excelente experiencia de usuario",
+        "Integro funcionalidades interactivas y responsivas para mejorar la usabilidad de los sitios web"
       ]
-    }],
-    "education": [{
+    },
+    {
+      "name": "Diseño y Creación de Invitaciones Web",
+      "position": "Freelance",
+      "url": "https://freelance.com",
+      "startDate": "2023-08-01",
+      "endDate": null,
+      "summary": "Diseño y desarrollo invitaciones web para eventos como bodas y fiestas, utilizando tecnologías modernas como React y Astro. Estos proyectos facilitan la difusión y gestión de eventos, proporcionando una experiencia interactiva y personalizada para los invitados.",
+      "highlights": [
+        "Diseño y desarrollo invitaciones web personalizadas para bodas y otros eventos utilizando React y Astro",
+        "Creo interfaces atractivas y fáciles de usar que mejoran la experiencia de los usuarios",
+        "Implemento funcionalidades interactivas para la confirmación de asistencia y la gestión de invitados",
+        "Optimizo las páginas web para una carga rápida y un rendimiento eficiente",
+        "Facilito la difusión de eventos a través de la integración con redes sociales y servicios de correo electrónico",
+        "Aseguro la compatibilidad con múltiples dispositivos y navegadores para una mayor accesibilidad",
+        "Colaboro con clientes para entender sus necesidades y crear soluciones a medida que superan sus expectativas"
+      ]
+    }
+  ],
+  "education": [
+    {
       "institution": "Centro Universitario Hidalguense",
       "url": "https://cuh.edu.mx",
       "area": "Ingeniería en Sistemas Computacionales",
-      "studyType": "Ingenieria",
+      "summary": "Segundo lugar en la Feria de Ciencias y Proyectos Tecnológicos CUH con un sistema de riego automatizado usando Arduino y componentes electrónicos. Proyecto escalable que aborda problemáticas mundiales propuestas por el Conacyt.",
       "startDate": "2023-02-01",
       "endDate": "2027-01-01"
-    }],
-      "certificates": [
-        {
-          "name": "JavaScript",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Desarrollo con Node.js",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Python",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Configuración de Entorno de Desarrollo en Windows",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Creación de Páginas Web con ChatGPT",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "ECMAScript: Historia y Versiones de JavaScript",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "HTML y CSS",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Fundamentos de Bases de Datos",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Fundamentos de Python",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Introducción a Java SE",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Introducción a la Terminal y Línea de Comandos",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Introducción al Desarrollo Backend",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Pensamiento Lógico: Algoritmos y Diagramas de Flujo",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Pensamiento Lógico: Lenguajes de Programación",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Pensamiento Lógico: Manejo de Datos, Estructuras y Funciones",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Prework: Configuración de Entorno de Desarrollo en Linux",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Prework: Configuración de Entorno de Desarrollo en macOS",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Productividad y Organización",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Redes Informáticas de Internet",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Fundamentos de Ingeniería de Software",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        },
-        {
-          "name": "Seguridad Informática",
-          "issuer": "Platzi",
-          "url": "https://guerra-666.github.io/CertifyView/"
-        }
-      ],
-      "skills": [
-        {
-            "name": "React"
-        },
-        {
-            "name": "Astro"
-        },
-        {
-            "name": "Bootstrap"
-        },
-        {
-            "name": "Tailwind"
-        },
-        {
-            "name": "Spring Boot"
-        },
-        {
-            "name": "Spring Security"
-        },
-        {
-            "name": "Spring Data JPA"
-        },
-        {
-            "name": "Node.js"
-        },
-        {
-            "name": "MySQL"
-        },
-        {
-            "name": "PostgreSQL"
-        }
-    ],
-    "languages": [{
+    }
+  ],
+  "certificates": [
+    {
+      "name": "JavaScript",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Desarrollo con Node.js",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Python",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "HTML y CSS",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Fundamentos de Bases de Datos",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Fundamentos de Python",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Java SE",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Spring Boot",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Spring Data JPA",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Spring Security",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Terminal y Línea de Comandos",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Introducción al Desarrollo Backend",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Productividad y Organización",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Redes Informáticas de Internet",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Fundamentos de Ingeniería de Software",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    },
+    {
+      "name": "Seguridad Informática",
+      "issuer": "Platzi",
+      "url": "https://guerra-666.github.io/CertifyView/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React"
+    },
+    {
+      "name": "Astro"
+    },
+    {
+      "name": "Bootstrap"
+    },
+    {
+      "name": "Tailwind"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "Spring Security"
+    },
+    {
+      "name": "Spring Data JPA"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Git & GitHub"
+    }
+  ],
+  "languages": [
+    {
       "language": "English",
       "level": "C1"
-    }],
-    "interests": [
-      {
-        "name": "Tecnología y Programación",
-        "keywords": [
-          "Inteligencia Artificial",
-          "Desarrollo de Software",
-          "Innovaciones Tecnológicas"
-        ]
-      },
-      {
-        "name": "Actividades al Aire Libre",
-        "keywords": [
-          "Senderismo",
-          "Ciclismo",
-          "Fotografía"
-        ]
-      },
-      {
-        "name": "Voluntariado y Comunidad",
-        "keywords": [
-          "Trabajo Comunitario",
-          "Organización de Eventos",
-          "Mentoría"
-        ]
-      }
-    ],
-    "references": [{
+    }
+  ],
+  "interests": [
+    {
+      "name": "Tecnología y Programación",
+      "keywords": [
+        "Inteligencia Artificial",
+        "Desarrollo de Software",
+        "Innovaciones Tecnológicas"
+      ]
+    },
+    {
+      "name": "Actividades al Aire Libre",
+      "keywords": [
+        "Senderismo",
+        "Ciclismo",
+        "Fotografía"
+      ]
+    },
+    {
+      "name": "Voluntariado y Comunidad",
+      "keywords": [
+        "Trabajo Comunitario",
+        "Organización de Eventos",
+        "Mentoría"
+      ]
+    }
+  ],
+  "references": [
+    {
       "name": "Jane Doe",
       "reference": "Reference…"
-    }],
-    "projects": [
+    }
+  ],
+  "projects": [
     {
-      "name": "Creación de la Web de la Academia de Danza DiBallu",
+      "name": "Academia de Danza DiBallu",
       "startDate": "2023-09-01",
       "endDate": "2023-12-01",
+      "isActive": true,
       "description": "Desarrollé y lancé el sitio web para la Academia de Danza DiBallu, mejorando su presencia en línea y facilitando la inscripción de nuevos estudiantes.",
       "highlights": [
         "Implementación de un diseño responsivo utilizando Bootstrap y Tailwind CSS.",
         "Desarrollo del frontend con React y Astro para una experiencia de usuario dinámica.",
         "Despliegue del sitio web en GitHub Pages para una accesibilidad y mantenimiento eficientes."
       ],
-      "url": "https://guerra-666.github.io/Academy/"
+      "url": "https://guerra-666.github.io/Academy/",
+      "github": "https://github.com/Guerra-666/Academy"
+    },
+    {
+      "name": "Página de Certificados",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01",
+      "isActive": true,
+      "description": "Desarrollé y lancé una página web para mostrar de manera organizada y estilizada los certificados obtenidos en diversos campos de estudio. Esta plataforma personalizada permite mostrar logros académicos y profesionales de manera más efectiva que opciones convencionales como LinkedIn.",
+      "highlights": [
+        "Diseño responsivo con Bootstrap y CSS3.",
+        "Organización de certificados por categorías.",
+        "Modal para visualización completa de certificados.",
+        "Adaptabilidad a múltiples dispositivos."
+      ],
+      "url": "https://guerra-666.github.io/Certificados/",
+      "github": "https://github.com/Guerra-666/CertifyView"
+    },
+    {
+      "name": "DocumentsOrganizzzer",
+      "startDate": "2023-01-01",
+      "endDate": "2023-03-01",
+      "isActive": true,
+      "description": "Script de Python que organiza archivos descargados en diferentes carpetas según su tipo y contenido. Los archivos se mueven o eliminan de la carpeta de descargas a otras carpetas designadas según su extensión y contenido.",
+      "highlights": [
+        "Organización automática de archivos descargados.",
+        "Clasificación de archivos según su extensión y contenido.",
+        "Movilización de archivos a carpetas designadas.",
+        "Eliminación de archivos no deseados.",
+        "Uso de Python para automatizar la gestión de archivos."
+      ],
+      "url": "https://github.com/usuario/DocumentsOrganizzzer",
+      "github": "https://github.com/Guerra-666/DocumentsOrganizzzer"
     }
+    
+    
   ]
-  }
-  
+}

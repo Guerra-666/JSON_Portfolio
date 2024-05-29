@@ -1,37 +1,69 @@
 ---
-import Section from '@/components/Section.astro'
+import Section from "@/components/Section.astro";
 
-import { skills } from '@cv'
+import { skills } from "@cv";
+import { certificates } from "@cv";
+import { languages } from "@cv";
 ---
 
-<Section title = "Skills">
-    <ul>
-        {
-            skills.map(({name}) => (
-                <li>
-                    <span>{name}</span>
-                </li>
-            ))
-        }
-    </ul>
+<Section title="Skills">
+  <ul>
+    {
+      skills.map(({ name }) => (
+        <li>
+          <span>{name}</span>
+        </li>
+      ))
+    }
+    {
+      languages.map(({ language, level }) => (
+        <li>
+          <span>
+            {language} - {level}
+          </span>
+        </li>
+      ))
+    }
+  </ul>
+</Section>
+
+<Section title="Certificados">
+  <h3>Platzi</h3>
+  <ul>
+    {
+      certificates.map(({ name }) => (
+        <li>
+          <span>{name}</span>
+        </li>
+      ))
+    }
+  </ul>
+  <h3>SCRUMStudy</h3>
+  <ul>
+    <li>
+      <span>Scrum Fundamentals</span>
+    </li>
+  </ul>
 </Section>
 
 <style>
-    ul {
-        display: inline-flex;
-        gap : 8px;
-        flex-wrap: wrap
-    }
+  ul {
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
 
-    li{
-        border-radius: 6px;
-        background: #eee;
-        color: black;
-        font-size: 0.8rem;
-        font-weight: 500;
-        padding: 0.2rem 0.6rem;
+  li {
+    border-radius: 6px;
+    background: #eee;
+    color: black;
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 0.2rem 0.6rem;
+  }
 
-    }
-
-
+  h3 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
 </style>
